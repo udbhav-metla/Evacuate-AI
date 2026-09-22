@@ -35,6 +35,3 @@ This project builds a digital twin of a building to simulate crowd movement duri
 └── package.json    # Dependencies and scripts
 ```
 
-## License
-
-Add your license here.
